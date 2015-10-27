@@ -1,0 +1,58 @@
+*{
+font-family: Cursive;
+ margin: 0px;
+ padding: 0px;
+}
+
+#container{
+ width: 950px;
+ margin: 0px auto;
+ padding: 15px;
+}
+
+	#header{
+	height: 200px;
+	margin-bottom: 20px;
+	}
+	
+		#picture{
+		display: block;
+		}
+		
+		#title{
+		display: block;
+		}
+		
+		#header img{
+		position: center;
+		}
+		
+		#h1{
+		color: darkred;
+		}
+
+	#main-content{
+	height: 400px;
+	width: 980px;
+	background-color: black;
+	display: inline-block;
+	padding: 15px;
+	}
+	
+		#image{
+		display: inline;
+		vertical-align:top;
+		}
+		
+		#main-content img{
+		display: inline;
+		}
+		
+		#li{
+		display: block;
+		}
+		
+			#main-content ul li{
+			display: inline-block;
+			}
+	
